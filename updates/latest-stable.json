@@ -1,0 +1,16 @@
+{
+  "version": "0.1.7",
+  "notes": "EG Hub 0.1.7 (stable ring)",
+  "pub_date": "2026-09-15T21:25:10Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWkwRG8wRE53ZFZwOUdUOTB5eEhKUE1GVVllNUNITDFFYkxvYzVGYlpsdFlJQnhSdmEzQkpKVTJ6TEMxRTY2ekZhWTRpaWZrR3JieXlnb3JzUWNhdndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTA3NDQxCWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKVUdGTFZpRVEyRzRsTG8ySjZFSUo4VUtvMUozcWQvcDFINVB6a2Y5OStTY1ZXTGQvYzFnYXJRdjRFQXRxOTlOLzV0QzJBZWh4bmZaMDZETjFQU2JuQkE9PQo=",
+      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.1.7/EG.Hub.app.tar.gz"
+    }
+  },
+  "eghub": {
+    "ring": "stable",
+    "paused": false,
+    "rollback": false
+  }
+}
