@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "EG Hub 0.1.28 (stable ring), source 8b37d83f",
-  "pub_date": "2026-09-21T20:09:11Z",
+  "version": "0.1.29",
+  "notes": "EG Hub 0.1.29 (stable ring), source 7158cab3",
+  "pub_date": "2026-09-21T21:42:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWtwMVhLNzZ0dEtvRDUxOC9CSk90VTI5RDZBeUxHbHk4ajRmdENsUnhqeS9uUVphSVJXaWl0NXVjVExiOUxrZGFIdERCYlIxL2VjbGYrUXl3b1QwYmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDIxMzAzCWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKeGx5aHlGKzdYcmJpNllQQ1RpTFUyOXhhaUE0SzE0Vm5QOFR3bGl1VmFYMytBYnA4RDJDV1c2TzNPeEVBbnVHcmZQYTJHSmN2bkRFR3hFTEMyaTAzQ1E9PQo=",
-      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.1.28/EG.Hub.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSXMzemQyWjhOczRET1pkd1FUQjBLT2dBc00vM3F5QU9QdXZZVXhSRUhYZzFwU0FId09XWEVDZTFRRHIwMERTakxOemVQYTZldTU4MVJNTUVMSDRla2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI2ODk2CWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKNlZxZnBMdmVVMFcyMVRHR0R2MU82N1R2VkpUS3NyM09XckhhM0hvcnZpNktYK3dObUYyZFlNWWEzWkcyZ2xyLzdxcFpHK1lFYktva0tjbjJqNjNZQlE9PQo=",
+      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.1.29/EG.Hub.app.tar.gz"
     }
   },
   "eghub": {
