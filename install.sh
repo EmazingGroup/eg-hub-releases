@@ -81,7 +81,7 @@ Done. EG Hub $VERSION is installed and opening.
 Next:
   1. Sign in with your work Google account.
   2. Allow the microphone and Accessibility when your Mac asks.
-  3. Hold Ctrl+Space and talk to dictate anywhere.
+  3. Click where you want to type, press Ctrl+Space, talk, press Ctrl+Space again.
 
 EG Hub updates itself from now on. Stuck? Post a screenshot in #eg-hub-testing.
 EOF
