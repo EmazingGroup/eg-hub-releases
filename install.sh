@@ -81,6 +81,8 @@ Done. EG Hub $VERSION is installed and opening.
 Next:
   1. Sign in with your work Google account.
   2. Allow the microphone and Accessibility when your Mac asks.
+     Meeting notes set themselves up after you sign in; EG Hub > Settings
+     shows anything that still needs a click.
   3. Click where you want to type, press Ctrl+Shift+Space, talk, press it again.
 
 EG Hub updates itself from now on. Stuck? Post a screenshot in #eg-hub-testing.
