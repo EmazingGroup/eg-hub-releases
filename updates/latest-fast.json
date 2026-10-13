@@ -1,0 +1,16 @@
+{
+  "version": "0.5.36-fast.2",
+  "notes": "EG Hub 0.5.36-fast.2 (fast ring), source 7ebe17bc",
+  "pub_date": "2026-10-13T19:24:56Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWpmKzh3MVFkVEh6Y0FISFZPaU9VWkJJWTVZcGFGajFjSXE4UGM5UVFZaGdidnFJT2ZCT01JVEhEWkh3MUFVSjNJeE85ZktqaUM5VnJoWUFyeEVFbFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTE5NDUxCWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKY3YzbzFjc1JkbGxVa05HQ3Q2U0NCYTJDOVFFN1VhaytkK3NtSXV2RnRzZnNFdXFvTjA1NXNpUmFsSUdGY1RWUDVZdkI0Z0JFcEUwNHJycC9Fclc2Qmc9PQo=",
+      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/fast-lane/EG.Hub-0.5.36-fast.2.app.tar.gz"
+    }
+  },
+  "eghub": {
+    "ring": "fast",
+    "paused": false,
+    "rollback": false
+  }
+}
