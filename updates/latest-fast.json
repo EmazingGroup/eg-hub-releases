@@ -1,16 +1,16 @@
 {
-  "version": "0.5.99",
-  "notes": "EG Hub 0.5.99 (fast ring), source 6fbd343c",
-  "pub_date": "2026-11-16T19:45:19Z",
+  "version": "0.5.100",
+  "notes": "EG Hub 0.5.100 (fast ring), source 89b3eaa1",
+  "pub_date": "2026-11-16T21:51:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWtFeWV4Vjc2RjhJRnVFRnFjOHlIRHFHQWdIY3pPeTkvNkJqS1BFZlUvRWN1bGRzSmZFbFFZTHRKRGRjY1gxRDRuQW5rMm9pTmlPRHQvYkNRR1FKcWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4MjYxCWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKSEhWNVB5aHhpZ2JQYm1uU0dJa1FyQUNBQnpnMEVBNHQ4OTFFSHJOekhIbmxXL1JmSDlkVk4wNmpaaWlFN0h1Mm0zMnpRK1A3bGdxWDg5bFh2SFlxQ1E9PQo=",
-      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.5.99/EG.Hub.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWd0bjREOUt2L2V6L3drSFdibC84UWQ2V1B3b1FRaElnVXRJblBNL0llMXpjWlh5Qzh0VjJLenA3U1o3N1BoSEFCbzhzS08wS3VTckRoSzZTckE4UFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1ODUxCWZpbGU6RUcgSHViLmFwcC50YXIuZ3oKMEhTSVZzSUxVUXlDYUFrejRlRFFFeVpRZU91TlQ2SjNNdzkrZ3NqZ1F0NXdtQmpoYTJLZWpmTUt2NkFmd2FEUHVqYTg1Rng1ZENBTWZ2NmFxM2dzRHc9PQo=",
+      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.5.100/EG.Hub.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSWhLdkNCMEZIMTBDV3ZOcDcwYXY0Wmdland0TFJKdDFXR1pzRE5oVEhXRzZiM0piR3gyQUhrVzcwMC8zcE9YQ29iQ1p6SU5jbEpYVXRscTJjMitxaGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4MzA3CWZpbGU6RUctSHViXzAuNS45OV94NjQtc2V0dXAuZXhlCnVjZm5mOEdMWm9FRkR5Q1grUFdUamlyTkF1WUVLS1FYQi9GMCt3c0x5MmRYOFpRNnMrU1JHb1pIenMzZytXQjRtY01oeTJacVo1RGhZZzYrdHpLM0NnPT0K",
-      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.5.99/EG-Hub_0.5.99_x64-setup.exe",
-      "version": "0.5.99"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV3dLSUIwR2loSXZkVkp5cWQyK1JobXppcjViTGhQYlRxS3RHREtOY2U3emYzN0MxaDZITjlRWWo3MldwaW9KejZyVm1rRi84WTRZTExLVTBpNTlaTWNEUWFTLzN1RUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1ODkxCWZpbGU6RUctSHViXzAuNS4xMDBfeDY0LXNldHVwLmV4ZQpOT3lrSnRqb0hvd1FWWEVKU3BOM2ErMUFDUUtmMEFuYVEyek9MZjJUS0IxcWMwN0U1N0JSSngyNFVSK0s4UjkwK1FmM2QwUlFYRUM5Z1g0SjVBUmVBZz09Cg==",
+      "url": "https://github.com/EmazingGroup/eg-hub-releases/releases/download/v0.5.100/EG-Hub_0.5.100_x64-setup.exe",
+      "version": "0.5.100"
     }
   },
   "eghub": {
