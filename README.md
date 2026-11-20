@@ -18,6 +18,12 @@ curl -fsSL https://raw.githubusercontent.com/EmazingGroup/eg-hub-releases/main/i
 
 It checks the download is signed by Emazing Group (Apple team FQJPY8W5U6) before installing anything, and installs the build named in `updates/latest-stable.json`, the same one the app's updater follows.
 
+To install the test build instead of stable, set `EGHUB_RING=test` before the install command:
+
+```
+EGHUB_RING=test curl -fsSL https://raw.githubusercontent.com/EmazingGroup/eg-hub-releases/main/install.sh | bash
+```
+
 Meeting notes (EG Notetaker) are part of EG Hub: after you sign in, EG Hub sets them up by itself, and EG Hub > Settings > EG Note Taker shows anything that still needs a click. There is nothing separate to install.
 
 To remove EG Hub and EG Notetaker (apps, background jobs, start-at-login), run:
